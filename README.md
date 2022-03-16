@@ -3,8 +3,9 @@
 Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/). Saya penggemar teknologi, main gim dan bercoding ria berbasis Mobile. Saya juga menyukai kolaborasi dengan rekan sesama penggemar coding berbasis Mobile. Informasi lebih lanjut tentang profil saya, silahkan mampir di sosial media saya, ya:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rizkghofur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkyghofur/)](https://www.linkedin.com/in/rizkyghofur/)
+[![Facebook Badge](https://img.shields.io/badge/-Rizki Abdul Gofur-purple?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rizky.abdulghofur/)]
 [![Instagram Badge](https://img.shields.io/badge/-rizky.ghofur-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizky.ghofur/)](https://instagram.com/rizky.ghofur)
-[![Youtube Badge](https://img.shields.io/badge/-RizkyAbdulGhofur-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RizkyAbdulGhofur)](https://www.youtube.com/c/RizkyAbdulGhofur)
+[![Youtube Badge](https://img.shields.io/badge/-Rizky Abdul Ghofur-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RizkyAbdulGhofur)](https://www.youtube.com/c/RizkyAbdulGhofur)
 [![Gmail Badge](https://img.shields.io/badge/-rizky.abdulghofur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.abdulghofur@gmail.com)](mailto:rizky.abdulghofur@gmail.com)
 
 ## ⚡ Yang biasa saya gunakan
