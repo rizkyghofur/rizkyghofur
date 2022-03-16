@@ -2,7 +2,7 @@
 
 Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/). Saya penggemar teknologi, main gim dan bercoding ria berbasis Mobile. Saya juga menyukai kolaborasi dengan rekan sesama penggemar coding berbasis Mobile. Informasi lebih lanjut tentang profil saya, silahkan mampir di sosial media saya, ya:
 
-[![Website Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-orange?style=flat-square&logo=web&logoColor=white&link=https://www.rizkyghofur.my.id/)](https://www.rizkyghofur.my.id/)
+[![Website Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-darkblue?style=flat-square&logo=internetexplorer&logoColor=white&link=https://www.rizkyghofur.my.id/)](https://www.rizkyghofur.my.id/)
 [![Linkedin Badge](https://img.shields.io/badge/-rizkghofur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkyghofur/)](https://www.linkedin.com/in/rizkyghofur/)
 [![Facebook Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rizky.abdulghofur/)](https://facebook.com/rizky.ghofur)
 [![Instagram Badge](https://img.shields.io/badge/-rizky.ghofur-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizky.ghofur/)](https://instagram.com/rizky.ghofur)
