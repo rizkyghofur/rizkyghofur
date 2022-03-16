@@ -10,7 +10,7 @@ Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) 
 ## ⚡ Yang biasa saya gunakan
 
 ![Android](https://img.shields.io/badge/-android-green?style=flat-square&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=iOS)
+![iOS](https://img.shields.io/badge/-apple-grey?style=flat-square&logo=apple)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-flutter-007ACC?style=flat-square&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
