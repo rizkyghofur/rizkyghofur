@@ -1,4 +1,4 @@
-## Halo yang di sana, selamat datang! <img src="https://raw.githubusercontent.com/rizkyghofur/rizkghofur/master/tangan.gif" width="30px">
+## Halo yang di sana, selamat datang! <img src="https://raw.githubusercontent.com/rizkyghofur/rizkyghofur/main/tangan.gif" width="30px">
 
 Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/). Saya penggemar teknologi, main gim dan bercoding ria berbasis Mobile. Saya juga menyukai kolaborasi dengan rekan sesama penggemar coding berbasis Mobile. Informasi lebih lanjut tentang profil saya, silahkan mampir di sosial media saya, ya:
 
