@@ -21,7 +21,7 @@ Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Androdi Studio](https://img.shields.io/badge/-androidstudio-grey?style=flat-square&logo=androidstudio)
-![VSCode](https://img.shields.io/badge/-vscode-grey?style=flat-square&logo=vscode)
+![VSCode](https://img.shields.io/badge/-vscode-blue?style=flat-square&logo=visualstudiocode)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rizkyghofur&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyghofur&hide=TeX&layout=compact)
