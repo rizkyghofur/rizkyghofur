@@ -1,18 +1,14 @@
-## Halo yang di sana, selamat datang! <img src="https://raw.githubusercontent.com/rizkyghofur/rizkyghofur/main/tangan.gif" width="30px">
-
 Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/). Saya penggemar teknologi, main gim dan bercoding ria berbasis Mobile. Saya juga menyukai kolaborasi dengan rekan sesama penggemar coding berbasis Mobile. Informasi lebih lanjut tentang profil saya, silahkan mampir di sosial media saya, ya:
 
-<p align="center">
 [![Website Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-darkblue?style=flat-square&logo=internetexplorer&logoColor=white&link=https://www.rizkyghofur.my.id/)](https://www.rizkyghofur.my.id/)
 [![Linkedin Badge](https://img.shields.io/badge/-rizkghofur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkyghofur/)](https://www.linkedin.com/in/rizkyghofur/)
 [![Facebook Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rizky.abdulghofur/)](https://facebook.com/rizky.ghofur)
 [![Instagram Badge](https://img.shields.io/badge/-rizky.ghofur-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizky.ghofur/)](https://instagram.com/rizky.ghofur)
 [![Youtube Badge](https://img.shields.io/badge/-Rizky%20Abdul%20Ghofur-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RizkyAbdulGhofur)](https://www.youtube.com/c/RizkyAbdulGhofur)
-[![Gmail Badge](https://img.shields.io/badge/-rizky.abdulghofur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.abdulghofur@gmail.com)](mailto:rizky.abdulghofur@gmail.com)>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-rizky.abdulghofur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.abdulghofur@gmail.com)](mailto:rizky.abdulghofur@gmail.com)
 
 ## ⚡ Yang biasa saya gunakan
-<p align="center">
+
 ![Android](https://img.shields.io/badge/-Android-grey?style=flat-square&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=apple)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
@@ -28,9 +24,6 @@ Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Androdi Studio](https://img.shields.io/badge/-AndroidStudio-grey?style=flat-square&logo=androidstudio)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode)
-</p>
 
-<p align="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rizkyghofur&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyghofur&hide=TeX&layout=compact&theme=dark)
-</p>
