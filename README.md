@@ -1,4 +1,4 @@
-Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) Teknik Informatika [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/). Saya penggemar teknologi, main gim dan bercoding ria berbasis Mobile. Saya juga menyukai kolaborasi dengan rekan sesama penggemar coding berbasis Mobile. Informasi lebih lanjut tentang profil saya, silahkan mampir di sosial media saya, ya:
+I am Rizki Abdul Gofur, commonly known as Rizki. I graduated with a Diploma 3 (D3) in Computer Engineering from Politeknik Negeri Banyuwangi. I am a Flutter Enthusiast, enjoy gaming, and love coding, especially in mobile development for Flutter. I also enjoy collaborating with fellow mobile coding enthusiasts. For more information about my profile, feel free to check out my social media!
 
 [![Website Badge](https://img.shields.io/badge/-Rizki%20Abdul%20Gofur-darkblue?style=flat-square&logo=internetexplorer&logoColor=white&link=https://www.rizkyghofur.my.id/)](https://www.rizkyghofur.my.id/)
 [![Linkedin Badge](https://img.shields.io/badge/-rizkghofur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkyghofur/)](https://www.linkedin.com/in/rizkyghofur/)
@@ -7,7 +7,7 @@ Saya Rizki Abdul Gofur, biasa disebut Rizki, Saya adalah lulusan Diploma 3 (D3) 
 [![Youtube Badge](https://img.shields.io/badge/-Rizky%20Abdul%20Ghofur-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RizkyAbdulGhofur)](https://www.youtube.com/c/RizkyAbdulGhofur)
 [![Gmail Badge](https://img.shields.io/badge/-rizky.abdulghofur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.abdulghofur@gmail.com)](mailto:rizky.abdulghofur@gmail.com)
 
-## ⚡ Yang biasa saya gunakan
+## ⚡ What I usually use
 
 ![Android](https://img.shields.io/badge/-Android-grey?style=flat-square&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=apple)
