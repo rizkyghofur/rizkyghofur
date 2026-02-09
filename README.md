@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Flutter Developer who is tidying up weapons and directions.
+I am a Flutter Enthusiast, enjoy gaming, and love coding, especially in mobile development for Flutter. I also enjoy collaborating with fellow mobile coding enthusiasts. For more information about my profile, feel free to check out my social media!
 
 
 ## 🌐 Socials:
